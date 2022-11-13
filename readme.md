@@ -1,8 +1,8 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Data and R scripts for the Case Study of the Paper ["Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics"](https://doi.org/10.1287/ijoc.2022.1245)
+# Data and R scripts for the Case Study of the Paper ["Now You See it, Now You Don't: Obfuscation of Online Third-Party Information Sharing"](https://doi.org/) (TBA)
 
-This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [Creative Commons Attribution-NonCommercial-NoDerivs](LICENSE).
 
 The R scripts and data in this repository are a snapshot of the scripts and data that were used in the case study reported on in the paper
 [Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics](https://doi.org/) by M.D. Moskal, E. Dasdemir and R. Batta.
